@@ -1,9 +1,8 @@
 package Practice_Question_Java_Non_Fsd;
 
-public class Main {
+public class Ques1{
 	public static void main(String[] args) {
-		System.out.println("Hello World");
-	}
-	
-
+		String s = "Hello World";
+		System.out.println(s);
+}
 }
